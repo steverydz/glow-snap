@@ -1,4 +1,4 @@
-name: glow
+name: danieltest-snap
 version: '1.3.0'
 summary: Render markdown on the CLI, with pizzazz!
 description: |
